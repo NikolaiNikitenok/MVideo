@@ -942,98 +942,6 @@
                 ]
             },
             {
-                "productId": "30062056",
-                "name": "Ноутбук Honor MagicBook X15 i5/16/512 Grey (BBR-WAH9)",
-                "nameTranslit": "noutbuk-honor-magicbook-x15-i5-16-512-grey-bbr-wah9",
-                "productType": "DIG",
-                "usedProductType": null,
-                "materialCisNumber": "30062056",
-                "materialSource": "ERP",
-                "modelName": "MagicBook X15 i5/16/512 Grey (BBR-WAH9)",
-                "rating": {
-                    "star": 4.428571428571429,
-                    "count": 7,
-                    "percent": 81
-                },
-                "supplier": null,
-                "vendorCatalog": null,
-                "sublicense": false,
-                "partnerType": null,
-                "preorder": null,
-                "isMprimeSubscription": false,
-                "image": "Pdb/small_pic/480/30062056b.jpg",
-                "brandId": "1077",
-                "brandName": "Honor",
-                "status": {
-                    "showCase": false,
-                    "availableOnlyInRetailStore": false,
-                    "soldOut": false,
-                    "isCannotBeExchanged": false
-                },
-                "category": {
-                    "id": "987",
-                    "name": "Ноутбуки"
-                },
-                "properties": null,
-                "images": [
-                    "Pdb/30062056.jpg",
-                    "Pdb/30062056b.jpg",
-                    "Pdb/30062056b1.jpg",
-                    "Pdb/30062056b2.jpg",
-                    "Pdb/30062056b3.jpg",
-                    "Pdb/30062056b4.jpg",
-                    "Pdb/30062056b5.jpg",
-                    "Pdb/30062056s.jpg"
-                ],
-                "propertiesPortion": [
-                    {
-                        "id": 621,
-                        "name": "Диагональ/разрешение",
-                        "value": "15.6\"/1920x1080 пикс.",
-                        "nameDescription": null,
-                        "valueDescription": null,
-                        "priority": 1,
-                        "measure": null
-                    },
-                    {
-                        "id": 30852930,
-                        "name": "Процессор",
-                        "value": "Intel Core i5 10210U 1.6 ГГц",
-                        "nameDescription": null,
-                        "valueDescription": null,
-                        "priority": 2,
-                        "measure": null
-                    },
-                    {
-                        "id": 30852805,
-                        "name": "Оперативная память (RAM)",
-                        "value": "16",
-                        "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
-                        "valueDescription": null,
-                        "priority": 4,
-                        "measure": "ГБ"
-                    },
-                    {
-                        "id": 620,
-                        "name": "Графический контроллер",
-                        "value": "Intel UHD Graphics",
-                        "nameDescription": "Модуль компьютера, отвечающий за обработку графической составляющей данных.",
-                        "valueDescription": null,
-                        "priority": 5,
-                        "measure": null
-                    },
-                    {
-                        "id": 30850950,
-                        "name": "Объем SSD",
-                        "value": "512 ГБ",
-                        "nameDescription": null,
-                        "valueDescription": null,
-                        "priority": 7,
-                        "measure": null
-                    }
-                ]
-            },
-            {
                 "productId": "30062055",
                 "name": "Ноутбук Honor MagicBook X14 i5/8/512 Silver (NBR-WAH9)",
                 "nameTranslit": "noutbuk-honor-magicbook-x14-i5-8-512-silver-nbr-wah9",
@@ -1124,6 +1032,99 @@
                         "id": 30850950,
                         "name": "Объем SSD",
                         "value": "512 ГБ",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 7,
+                        "measure": null
+                    }
+                ]
+            },
+            {
+                "productId": "30061552",
+                "name": "Ноутбук HP 15s-eq2107ur 5R9R6EA",
+                "nameTranslit": "noutbuk-hp-15s-eq2107ur-5r9r6ea",
+                "productType": "DIG",
+                "usedProductType": null,
+                "materialCisNumber": "30061552",
+                "materialSource": "ERP",
+                "modelName": "15s-eq2107ur 5R9R6EA",
+                "rating": {
+                    "star": 5,
+                    "count": 5,
+                    "percent": 101
+                },
+                "supplier": null,
+                "vendorCatalog": null,
+                "sublicense": false,
+                "partnerType": null,
+                "preorder": null,
+                "isMprimeSubscription": false,
+                "image": "Pdb/small_pic/480/30061552b.jpg",
+                "brandId": "534",
+                "brandName": "HP",
+                "status": {
+                    "showCase": false,
+                    "availableOnlyInRetailStore": false,
+                    "soldOut": false,
+                    "isCannotBeExchanged": false
+                },
+                "category": {
+                    "id": "987",
+                    "name": "Ноутбуки"
+                },
+                "properties": null,
+                "images": [
+                    "Pdb/30061552.jpg",
+                    "Pdb/30061552b.jpg",
+                    "Pdb/30061552b1.jpg",
+                    "Pdb/30061552b2.jpg",
+                    "Pdb/30061552b21.jpg",
+                    "Pdb/30061552b22.jpg",
+                    "Pdb/30061552b23.jpg",
+                    "Pdb/30061552b24.jpg",
+                    "Pdb/30061552s.jpg"
+                ],
+                "propertiesPortion": [
+                    {
+                        "id": 621,
+                        "name": "Диагональ/разрешение",
+                        "value": "15.6\"/1920x1080 пикс.",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 1,
+                        "measure": null
+                    },
+                    {
+                        "id": 30852930,
+                        "name": "Процессор",
+                        "value": "AMD Ryzen 3 5300U 2.6 ГГц",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 2,
+                        "measure": null
+                    },
+                    {
+                        "id": 30852805,
+                        "name": "Оперативная память (RAM)",
+                        "value": "8",
+                        "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                        "valueDescription": null,
+                        "priority": 4,
+                        "measure": "ГБ"
+                    },
+                    {
+                        "id": 620,
+                        "name": "Графический контроллер",
+                        "value": "Radeon",
+                        "nameDescription": "Модуль компьютера, отвечающий за обработку графической составляющей данных.",
+                        "valueDescription": null,
+                        "priority": 5,
+                        "measure": null
+                    },
+                    {
+                        "id": 30850950,
+                        "name": "Объем SSD",
+                        "value": "256 ГБ",
                         "nameDescription": null,
                         "valueDescription": null,
                         "priority": 7,
@@ -1235,8 +1236,8 @@
                 "materialSource": "ERP",
                 "modelName": "IdeaPad Gaming 3 15IHU6 (82K1010KRK)",
                 "rating": {
-                    "star": 4.863636363636363,
-                    "count": 22,
+                    "star": 4.875,
+                    "count": 24,
                     "percent": 91
                 },
                 "supplier": null,
@@ -1313,6 +1314,98 @@
                         "id": 30850950,
                         "name": "Объем SSD",
                         "value": "256 ГБ",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 7,
+                        "measure": null
+                    }
+                ]
+            },
+            {
+                "productId": "30062056",
+                "name": "Ноутбук Honor MagicBook X15 i5/16/512 Grey (BBR-WAH9)",
+                "nameTranslit": "noutbuk-honor-magicbook-x15-i5-16-512-grey-bbr-wah9",
+                "productType": "DIG",
+                "usedProductType": null,
+                "materialCisNumber": "30062056",
+                "materialSource": "ERP",
+                "modelName": "MagicBook X15 i5/16/512 Grey (BBR-WAH9)",
+                "rating": {
+                    "star": 4.428571428571429,
+                    "count": 7,
+                    "percent": 81
+                },
+                "supplier": null,
+                "vendorCatalog": null,
+                "sublicense": false,
+                "partnerType": null,
+                "preorder": null,
+                "isMprimeSubscription": false,
+                "image": "Pdb/small_pic/480/30062056b.jpg",
+                "brandId": "1077",
+                "brandName": "Honor",
+                "status": {
+                    "showCase": false,
+                    "availableOnlyInRetailStore": false,
+                    "soldOut": false,
+                    "isCannotBeExchanged": false
+                },
+                "category": {
+                    "id": "987",
+                    "name": "Ноутбуки"
+                },
+                "properties": null,
+                "images": [
+                    "Pdb/30062056.jpg",
+                    "Pdb/30062056b.jpg",
+                    "Pdb/30062056b1.jpg",
+                    "Pdb/30062056b2.jpg",
+                    "Pdb/30062056b3.jpg",
+                    "Pdb/30062056b4.jpg",
+                    "Pdb/30062056b5.jpg",
+                    "Pdb/30062056s.jpg"
+                ],
+                "propertiesPortion": [
+                    {
+                        "id": 621,
+                        "name": "Диагональ/разрешение",
+                        "value": "15.6\"/1920x1080 пикс.",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 1,
+                        "measure": null
+                    },
+                    {
+                        "id": 30852930,
+                        "name": "Процессор",
+                        "value": "Intel Core i5 10210U 1.6 ГГц",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 2,
+                        "measure": null
+                    },
+                    {
+                        "id": 30852805,
+                        "name": "Оперативная память (RAM)",
+                        "value": "16",
+                        "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                        "valueDescription": null,
+                        "priority": 4,
+                        "measure": "ГБ"
+                    },
+                    {
+                        "id": 620,
+                        "name": "Графический контроллер",
+                        "value": "Intel UHD Graphics",
+                        "nameDescription": "Модуль компьютера, отвечающий за обработку графической составляющей данных.",
+                        "valueDescription": null,
+                        "priority": 5,
+                        "measure": null
+                    },
+                    {
+                        "id": 30850950,
+                        "name": "Объем SSD",
+                        "value": "512 ГБ",
                         "nameDescription": null,
                         "valueDescription": null,
                         "priority": 7,
@@ -1415,18 +1508,18 @@
                 ]
             },
             {
-                "productId": "30061552",
-                "name": "Ноутбук HP 15s-eq2107ur 5R9R6EA",
-                "nameTranslit": "noutbuk-hp-15s-eq2107ur-5r9r6ea",
+                "productId": "30055123",
+                "name": "Ноутбук Lenovo IdeaPad 3 14ADA05 (81W000KQRU)",
+                "nameTranslit": "noutbuk-lenovo-ideapad-3-14ada05-81w000kqru",
                 "productType": "DIG",
                 "usedProductType": null,
-                "materialCisNumber": "30061552",
+                "materialCisNumber": "30055123",
                 "materialSource": "ERP",
-                "modelName": "15s-eq2107ur 5R9R6EA",
+                "modelName": "IdeaPad 3 14ADA05 (81W000KQRU)",
                 "rating": {
-                    "star": 5,
-                    "count": 5,
-                    "percent": 101
+                    "star": 4.55,
+                    "count": 20,
+                    "percent": 91
                 },
                 "supplier": null,
                 "vendorCatalog": null,
@@ -1434,9 +1527,9 @@
                 "partnerType": null,
                 "preorder": null,
                 "isMprimeSubscription": false,
-                "image": "Pdb/small_pic/480/30061552b.jpg",
-                "brandId": "534",
-                "brandName": "HP",
+                "image": "Pdb/small_pic/480/30055123b.jpg",
+                "brandId": "1006",
+                "brandName": "Lenovo",
                 "status": {
                     "showCase": false,
                     "availableOnlyInRetailStore": false,
@@ -1449,21 +1542,20 @@
                 },
                 "properties": null,
                 "images": [
-                    "Pdb/30061552.jpg",
-                    "Pdb/30061552b.jpg",
-                    "Pdb/30061552b1.jpg",
-                    "Pdb/30061552b2.jpg",
-                    "Pdb/30061552b21.jpg",
-                    "Pdb/30061552b22.jpg",
-                    "Pdb/30061552b23.jpg",
-                    "Pdb/30061552b24.jpg",
-                    "Pdb/30061552s.jpg"
+                    "Pdb/30055123.jpg",
+                    "Pdb/30055123b.jpg",
+                    "Pdb/30055123b1.jpg",
+                    "Pdb/30055123b21.jpg",
+                    "Pdb/30055123b22.jpg",
+                    "Pdb/30055123b23.jpg",
+                    "Pdb/30055123b24.jpg",
+                    "Pdb/30055123s.jpg"
                 ],
                 "propertiesPortion": [
                     {
                         "id": 621,
                         "name": "Диагональ/разрешение",
-                        "value": "15.6\"/1920x1080 пикс.",
+                        "value": "14\"/1920x1080 пикс.",
                         "nameDescription": null,
                         "valueDescription": null,
                         "priority": 1,
@@ -1472,7 +1564,7 @@
                     {
                         "id": 30852930,
                         "name": "Процессор",
-                        "value": "AMD Ryzen 3 5300U 2.6 ГГц",
+                        "value": "AMD Athlon Silver 3050U 2.3 ГГц",
                         "nameDescription": null,
                         "valueDescription": null,
                         "priority": 2,
@@ -1481,7 +1573,7 @@
                     {
                         "id": 30852805,
                         "name": "Оперативная память (RAM)",
-                        "value": "8",
+                        "value": "4",
                         "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
                         "valueDescription": null,
                         "priority": 4,
@@ -1490,7 +1582,7 @@
                     {
                         "id": 620,
                         "name": "Графический контроллер",
-                        "value": "Radeon",
+                        "value": "Radeon Graphics",
                         "nameDescription": "Модуль компьютера, отвечающий за обработку графической составляющей данных.",
                         "valueDescription": null,
                         "priority": 5,
@@ -1698,18 +1790,18 @@
                 ]
             },
             {
-                "productId": "30061549",
-                "name": "Ноутбук HP 15s-eq2099ur 5D647EA",
-                "nameTranslit": "noutbuk-hp-15s-eq2099ur-5d647ea",
+                "productId": "30062683",
+                "name": "Ноутбук ASUS R429MA-EK1506W (90NB0Q11-M41660)",
+                "nameTranslit": "noutbuk-asus-r429ma-ek1506w-90nb0q11-m41660",
                 "productType": "DIG",
                 "usedProductType": null,
-                "materialCisNumber": "30061549",
+                "materialCisNumber": "30062683",
                 "materialSource": "ERP",
-                "modelName": "15s-eq2099ur 5D647EA",
+                "modelName": "R429MA-EK1506W (90NB0Q11-M41660)",
                 "rating": {
-                    "star": 4.916666666666667,
-                    "count": 12,
-                    "percent": 91
+                    "star": 5,
+                    "count": 1,
+                    "percent": 101
                 },
                 "supplier": null,
                 "vendorCatalog": null,
@@ -1717,11 +1809,11 @@
                 "partnerType": null,
                 "preorder": null,
                 "isMprimeSubscription": false,
-                "image": "Pdb/small_pic/480/30061549b.jpg",
-                "brandId": "534",
-                "brandName": "HP",
+                "image": "Pdb/small_pic/480/30062683b.jpg",
+                "brandId": "455",
+                "brandName": "ASUS",
                 "status": {
-                    "showCase": true,
+                    "showCase": false,
                     "availableOnlyInRetailStore": false,
                     "soldOut": false,
                     "isCannotBeExchanged": false
@@ -1732,17 +1824,22 @@
                 },
                 "properties": null,
                 "images": [
-                    "Pdb/30061549.jpg",
-                    "Pdb/30061549b.jpg",
-                    "Pdb/30061549b1.jpg",
-                    "Pdb/30061549b2.jpg",
-                    "Pdb/30061549s.jpg"
+                    "Pdb/30062683.jpg",
+                    "Pdb/30062683b.jpg",
+                    "Pdb/30062683b1.jpg",
+                    "Pdb/30062683b2.jpg",
+                    "Pdb/30062683b21.jpg",
+                    "Pdb/30062683b22.jpg",
+                    "Pdb/30062683b23.jpg",
+                    "Pdb/30062683b24.jpg",
+                    "Pdb/30062683b3.jpg",
+                    "Pdb/30062683s.jpg"
                 ],
                 "propertiesPortion": [
                     {
                         "id": 621,
                         "name": "Диагональ/разрешение",
-                        "value": "15.6\"/1920x1080 пикс.",
+                        "value": "14\"/1920x1080 пикс.",
                         "nameDescription": null,
                         "valueDescription": null,
                         "priority": 1,
@@ -1751,7 +1848,7 @@
                     {
                         "id": 30852930,
                         "name": "Процессор",
-                        "value": "AMD Ryzen 5 5500U 2.1 ГГц",
+                        "value": "Intel Pentium Silver N5030 1.1 ГГц",
                         "nameDescription": null,
                         "valueDescription": null,
                         "priority": 2,
@@ -1760,7 +1857,7 @@
                     {
                         "id": 30852805,
                         "name": "Оперативная память (RAM)",
-                        "value": "16",
+                        "value": "4",
                         "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
                         "valueDescription": null,
                         "priority": 4,
@@ -1769,7 +1866,7 @@
                     {
                         "id": 620,
                         "name": "Графический контроллер",
-                        "value": "Radeon",
+                        "value": "Intel UHD Graphics 605",
                         "nameDescription": "Модуль компьютера, отвечающий за обработку графической составляющей данных.",
                         "valueDescription": null,
                         "priority": 5,
@@ -1778,7 +1875,7 @@
                     {
                         "id": 30850950,
                         "name": "Объем SSD",
-                        "value": "512 ГБ",
+                        "value": "128 ГБ",
                         "nameDescription": null,
                         "valueDescription": null,
                         "priority": 7,
@@ -1904,7 +2001,7 @@
                 "brandId": "455",
                 "brandName": "ASUS",
                 "status": {
-                    "showCase": false,
+                    "showCase": true,
                     "availableOnlyInRetailStore": false,
                     "soldOut": false,
                     "isCannotBeExchanged": false
@@ -1975,17 +2072,17 @@
                 ]
             },
             {
-                "productId": "30062683",
-                "name": "Ноутбук ASUS R429MA-EK1506W (90NB0Q11-M41660)",
-                "nameTranslit": "noutbuk-asus-r429ma-ek1506w-90nb0q11-m41660",
+                "productId": "30063676",
+                "name": "Ноутбук Apple MacBook Pro 16 M1 Pro/16/512 Space Gray",
+                "nameTranslit": "noutbuk-apple-macbook-pro-16-m1-pro-16-512-space-gray",
                 "productType": "DIG",
                 "usedProductType": null,
-                "materialCisNumber": "30062683",
+                "materialCisNumber": "30063676",
                 "materialSource": "ERP",
-                "modelName": "R429MA-EK1506W (90NB0Q11-M41660)",
+                "modelName": "MacBook Pro 16 M1 Pro/16/512 Space Gray",
                 "rating": {
                     "star": 5,
-                    "count": 1,
+                    "count": 5,
                     "percent": 101
                 },
                 "supplier": null,
@@ -1994,9 +2091,103 @@
                 "partnerType": null,
                 "preorder": null,
                 "isMprimeSubscription": false,
-                "image": "Pdb/small_pic/480/30062683b.jpg",
-                "brandId": "455",
-                "brandName": "ASUS",
+                "image": "Pdb/small_pic/480/30063676b.jpg",
+                "brandId": "685",
+                "brandName": "Apple",
+                "status": {
+                    "showCase": false,
+                    "availableOnlyInRetailStore": false,
+                    "soldOut": false,
+                    "isCannotBeExchanged": false
+                },
+                "category": {
+                    "id": "709",
+                    "name": "Ноутбуки Apple MacBook"
+                },
+                "properties": null,
+                "images": [
+                    "Pdb/30063676.jpg",
+                    "Pdb/30063676b.jpg",
+                    "Pdb/30063676b1.jpg",
+                    "Pdb/30063676b2.jpg",
+                    "Pdb/30063676b3.jpg",
+                    "Pdb/30063676b4.jpg",
+                    "Pdb/30063676b5.jpg",
+                    "Pdb/30063676b6.jpg",
+                    "Pdb/30063676b7.jpg",
+                    "Pdb/30063676s.jpg"
+                ],
+                "propertiesPortion": [
+                    {
+                        "id": 621,
+                        "name": "Диагональ/разрешение",
+                        "value": "16.2\"/3456x2234 пикс.",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 1,
+                        "measure": null
+                    },
+                    {
+                        "id": 30852930,
+                        "name": "Процессор",
+                        "value": "Apple M1 Pro",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 2,
+                        "measure": null
+                    },
+                    {
+                        "id": 30852805,
+                        "name": "Оперативная память (RAM)",
+                        "value": "16",
+                        "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                        "valueDescription": null,
+                        "priority": 3,
+                        "measure": "ГБ"
+                    },
+                    {
+                        "id": 266,
+                        "name": "Работа от аккумулятора",
+                        "value": "до 21 часа",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 6,
+                        "measure": null
+                    },
+                    {
+                        "id": 91,
+                        "name": "Вес",
+                        "value": "2.15",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 7,
+                        "measure": "кг"
+                    }
+                ]
+            },
+            {
+                "productId": "30062106",
+                "name": "Ноутбук Acer Aspire 3 A315-23-R384 (NX.HVTER.02R)",
+                "nameTranslit": "noutbuk-acer-aspire-3-a315-23-r384-nxhvter02r",
+                "productType": "DIG",
+                "usedProductType": null,
+                "materialCisNumber": "30062106",
+                "materialSource": "ERP",
+                "modelName": "Aspire 3 A315-23-R384 (NX.HVTER.02R)",
+                "rating": {
+                    "star": 5,
+                    "count": 3,
+                    "percent": 101
+                },
+                "supplier": null,
+                "vendorCatalog": null,
+                "sublicense": false,
+                "partnerType": null,
+                "preorder": null,
+                "isMprimeSubscription": false,
+                "image": "Pdb/small_pic/480/30062106b.jpg",
+                "brandId": "93",
+                "brandName": "Acer",
                 "status": {
                     "showCase": false,
                     "availableOnlyInRetailStore": false,
@@ -2009,22 +2200,22 @@
                 },
                 "properties": null,
                 "images": [
-                    "Pdb/30062683.jpg",
-                    "Pdb/30062683b.jpg",
-                    "Pdb/30062683b1.jpg",
-                    "Pdb/30062683b2.jpg",
-                    "Pdb/30062683b21.jpg",
-                    "Pdb/30062683b22.jpg",
-                    "Pdb/30062683b23.jpg",
-                    "Pdb/30062683b24.jpg",
-                    "Pdb/30062683b3.jpg",
-                    "Pdb/30062683s.jpg"
+                    "Pdb/30062106.jpg",
+                    "Pdb/30062106b.jpg",
+                    "Pdb/30062106b1.jpg",
+                    "Pdb/30062106b2.jpg",
+                    "Pdb/30062106b21.jpg",
+                    "Pdb/30062106b22.jpg",
+                    "Pdb/30062106b23.jpg",
+                    "Pdb/30062106b24.jpg",
+                    "Pdb/30062106b3.jpg",
+                    "Pdb/30062106s.jpg"
                 ],
                 "propertiesPortion": [
                     {
                         "id": 621,
                         "name": "Диагональ/разрешение",
-                        "value": "14\"/1920x1080 пикс.",
+                        "value": "15.6\"/1920x1080 пикс.",
                         "nameDescription": null,
                         "valueDescription": null,
                         "priority": 1,
@@ -2033,104 +2224,7 @@
                     {
                         "id": 30852930,
                         "name": "Процессор",
-                        "value": "Intel Pentium Silver N5030 1.1 ГГц",
-                        "nameDescription": null,
-                        "valueDescription": null,
-                        "priority": 2,
-                        "measure": null
-                    },
-                    {
-                        "id": 30852805,
-                        "name": "Оперативная память (RAM)",
-                        "value": "4",
-                        "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
-                        "valueDescription": null,
-                        "priority": 4,
-                        "measure": "ГБ"
-                    },
-                    {
-                        "id": 620,
-                        "name": "Графический контроллер",
-                        "value": "Intel UHD Graphics 605",
-                        "nameDescription": "Модуль компьютера, отвечающий за обработку графической составляющей данных.",
-                        "valueDescription": null,
-                        "priority": 5,
-                        "measure": null
-                    },
-                    {
-                        "id": 30850950,
-                        "name": "Объем SSD",
-                        "value": "128 ГБ",
-                        "nameDescription": null,
-                        "valueDescription": null,
-                        "priority": 7,
-                        "measure": null
-                    }
-                ]
-            },
-            {
-                "productId": "30059802",
-                "name": "Ноутбук HUAWEI MateBook D 14 NbM-WDQ9 8+512GB Space Grey",
-                "nameTranslit": "noutbuk-huawei-matebook-d-14-nbm-wdq9-8512gb-space-grey",
-                "productType": "DIG",
-                "usedProductType": null,
-                "materialCisNumber": "30059802",
-                "materialSource": "ERP",
-                "modelName": "MateBook D 14 NbM-WDQ9 8+512GB Space Grey",
-                "rating": {
-                    "star": 4.6923076923076925,
-                    "count": 13,
-                    "percent": 91
-                },
-                "supplier": null,
-                "vendorCatalog": null,
-                "sublicense": false,
-                "partnerType": null,
-                "preorder": null,
-                "isMprimeSubscription": false,
-                "image": "Pdb/small_pic/480/30059802b.jpg",
-                "brandId": "1801",
-                "brandName": "HUAWEI",
-                "status": {
-                    "showCase": true,
-                    "availableOnlyInRetailStore": false,
-                    "soldOut": false,
-                    "isCannotBeExchanged": false
-                },
-                "category": {
-                    "id": "987",
-                    "name": "Ноутбуки"
-                },
-                "properties": null,
-                "images": [
-                    "Pdb/30059802.jpg",
-                    "Pdb/30059802b.jpg",
-                    "Pdb/30059802b1.jpg",
-                    "Pdb/30059802b2.jpg",
-                    "Pdb/30059802b21.jpg",
-                    "Pdb/30059802b22.jpg",
-                    "Pdb/30059802b23.jpg",
-                    "Pdb/30059802b24.jpg",
-                    "Pdb/30059802b3.jpg",
-                    "Pdb/30059802b4.jpg",
-                    "Pdb/30059802b5.jpg",
-                    "Pdb/30059802b6.jpg",
-                    "Pdb/30059802s.jpg"
-                ],
-                "propertiesPortion": [
-                    {
-                        "id": 621,
-                        "name": "Диагональ/разрешение",
-                        "value": "14\"/1920x1080 пикс.",
-                        "nameDescription": null,
-                        "valueDescription": null,
-                        "priority": 1,
-                        "measure": null
-                    },
-                    {
-                        "id": 30852930,
-                        "name": "Процессор",
-                        "value": "AMD Ryzen 5 5500U 2.1 ГГц",
+                        "value": "AMD Ryzen 5 3500U 2.1 ГГц",
                         "nameDescription": null,
                         "valueDescription": null,
                         "priority": 2,
@@ -2148,7 +2242,7 @@
                     {
                         "id": 620,
                         "name": "Графический контроллер",
-                        "value": "Radeon Graphics",
+                        "value": "Radeon Vega 8",
                         "nameDescription": "Модуль компьютера, отвечающий за обработку графической составляющей данных.",
                         "valueDescription": null,
                         "priority": 5,
@@ -2158,98 +2252,6 @@
                         "id": 30850950,
                         "name": "Объем SSD",
                         "value": "512 ГБ",
-                        "nameDescription": null,
-                        "valueDescription": null,
-                        "priority": 7,
-                        "measure": null
-                    }
-                ]
-            },
-            {
-                "productId": "30055123",
-                "name": "Ноутбук Lenovo IdeaPad 3 14ADA05 (81W000KQRU)",
-                "nameTranslit": "noutbuk-lenovo-ideapad-3-14ada05-81w000kqru",
-                "productType": "DIG",
-                "usedProductType": null,
-                "materialCisNumber": "30055123",
-                "materialSource": "ERP",
-                "modelName": "IdeaPad 3 14ADA05 (81W000KQRU)",
-                "rating": {
-                    "star": 4.55,
-                    "count": 20,
-                    "percent": 91
-                },
-                "supplier": null,
-                "vendorCatalog": null,
-                "sublicense": false,
-                "partnerType": null,
-                "preorder": null,
-                "isMprimeSubscription": false,
-                "image": "Pdb/small_pic/480/30055123b.jpg",
-                "brandId": "1006",
-                "brandName": "Lenovo",
-                "status": {
-                    "showCase": false,
-                    "availableOnlyInRetailStore": false,
-                    "soldOut": false,
-                    "isCannotBeExchanged": false
-                },
-                "category": {
-                    "id": "987",
-                    "name": "Ноутбуки"
-                },
-                "properties": null,
-                "images": [
-                    "Pdb/30055123.jpg",
-                    "Pdb/30055123b.jpg",
-                    "Pdb/30055123b1.jpg",
-                    "Pdb/30055123b21.jpg",
-                    "Pdb/30055123b22.jpg",
-                    "Pdb/30055123b23.jpg",
-                    "Pdb/30055123b24.jpg",
-                    "Pdb/30055123s.jpg"
-                ],
-                "propertiesPortion": [
-                    {
-                        "id": 621,
-                        "name": "Диагональ/разрешение",
-                        "value": "14\"/1920x1080 пикс.",
-                        "nameDescription": null,
-                        "valueDescription": null,
-                        "priority": 1,
-                        "measure": null
-                    },
-                    {
-                        "id": 30852930,
-                        "name": "Процессор",
-                        "value": "AMD Athlon Silver 3050U 2.3 ГГц",
-                        "nameDescription": null,
-                        "valueDescription": null,
-                        "priority": 2,
-                        "measure": null
-                    },
-                    {
-                        "id": 30852805,
-                        "name": "Оперативная память (RAM)",
-                        "value": "4",
-                        "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
-                        "valueDescription": null,
-                        "priority": 4,
-                        "measure": "ГБ"
-                    },
-                    {
-                        "id": 620,
-                        "name": "Графический контроллер",
-                        "value": "Radeon Graphics",
-                        "nameDescription": "Модуль компьютера, отвечающий за обработку графической составляющей данных.",
-                        "valueDescription": null,
-                        "priority": 5,
-                        "measure": null
-                    },
-                    {
-                        "id": 30850950,
-                        "name": "Объем SSD",
-                        "value": "256 ГБ",
                         "nameDescription": null,
                         "valueDescription": null,
                         "priority": 7,
