@@ -131,7 +131,7 @@ def get_result():
             item['item_basePrice'] = prices.get('item_basePrice')
             item['item_salePrice'] = prices.get('item_salePrice')
             item['item_bonus'] = prices.get('item_bonus')
-            item['item_link'] = f'https://www.mvideo.ru/{item.get("nameTranslit")}-{products_id}'
+            item['item_link'] = f'https://www.mvideo.ru/products/{item.get("nameTranslit")}-{products_id}'
 
 
     
