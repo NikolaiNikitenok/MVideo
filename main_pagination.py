@@ -1,4 +1,5 @@
-import requests, json
+import requests
+import json
 from config import headers, cookies
 import os
 import math
@@ -129,6 +130,7 @@ def get_result():
                 prices = products_prices[products_id]
 
             item['item_basePrice'] = prices.get('item_basePrice')
+
             item['item_salePrice'] = prices.get('item_salePrice')
             item['item_bonus'] = prices.get('item_bonus')
             item['item_link'] = f'https://www.mvideo.ru/products/{item.get("nameTranslit")}-{products_id}'
