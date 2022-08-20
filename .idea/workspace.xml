@@ -4,10 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/main.py" line="234" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99f45ec9-32da-4048-848b-12630aab3819" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99f45ec9-32da-4048-848b-12630aab3819" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,6 +127,14 @@
       <option name="presentableId" value="Default" />
       <updated>1658510272843</updated>
     </task>
+    <task id="LOCAL-00001" summary="update 1.1">
+      <created>1661004243612</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661004243612</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -172,6 +177,10 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update 1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 1.1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../../../../../Program Files/Python38-32/Lib/encodings/cp1251.py">
