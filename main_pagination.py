@@ -4,6 +4,7 @@ from config import headers, cookies
 import os
 import math
 
+
 def get_data():
     params = {
         'categoryId': '118',
@@ -20,7 +21,8 @@ def get_data():
         os.mkdir('data')
 
     s = requests.Session()
-    response = s.get('https://www.mvideo.ru/bff/products/listing', params=params, cookies=cookies, headers=headers).json()
+    response = s.get('https://www.mvideo.ru/bff/products/listing',
+                     params=params, cookies=cookies, headers=headers).json()
     # print(response)
 
     total_items = response.get('body').get('total')
@@ -50,7 +52,8 @@ def get_data():
             'doTranslit': 'true',
         }
 
-        response = s.get('https://www.mvideo.ru/bff/products/listing', params=params, cookies=cookies, headers=headers).json()
+        response = s.get('https://www.mvideo.ru/bff/products/listing',
+                         params=params, cookies=cookies, headers=headers).json()
 
         products_ids_list = response.get('body').get('products')
         products_ids[i] = products_ids_list
@@ -72,9 +75,10 @@ def get_data():
             'multioffer': False,
         }
 
-        response = s.post('https://www.mvideo.ru/bff/product-details/list', cookies=cookies, headers=headers, json=json_data).json()
+        response = s.post('https://www.mvideo.ru/bff/product-details/list',
+                          cookies=cookies, headers=headers, json=json_data).json()
         products_description[i] = response
-    
+
         products_ids_str = ','.join(products_ids_list)
 
         params = {
@@ -83,7 +87,8 @@ def get_data():
             'isPromoApplied': 'true',
         }
 
-        response = s.get('https://www.mvideo.ru/bff/products/prices', params=params, cookies=cookies, headers=headers).json()
+        response = s.get('https://www.mvideo.ru/bff/products/prices',
+                         params=params, cookies=cookies, headers=headers).json()
         material_prices = response.get('body').get('materialPrices')
 
         if material_prices is None:
@@ -105,7 +110,7 @@ def get_data():
 
     with open('data/1_products_ids.json', 'w', encoding='utf-8') as file:
         json.dump(products_ids, file, indent=4, ensure_ascii=False)
-    
+
     with open('data/2_products_description.json', 'w', encoding='utf-8') as file:
         json.dump(products_description, file, indent=4, ensure_ascii=False)
 
@@ -122,7 +127,7 @@ def get_result():
 
     for item in products_data.values():
         products = item.get('body').get('products')
-    
+
         for item in products:
             products_id = item.get('productId')
 
@@ -135,8 +140,6 @@ def get_result():
             item['item_bonus'] = prices.get('item_bonus')
             item['item_link'] = f'https://www.mvideo.ru/products/{item.get("nameTranslit")}-{products_id}'
 
-
-    
     with open('data/4_result.json', 'w', encoding='utf-8') as file:
         json.dump(products_data, file, indent=4, ensure_ascii=False)
 
