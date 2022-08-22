@@ -2138,6 +2138,104 @@
         "item_bonus": 1680
     },
     {
+        "productId": "30062329",
+        "name": "Ноутбук HUAWEI MateBook D 14 NbD-WDH9 8/512GB Mystic Silver",
+        "nameTranslit": "noutbuk-huawei-matebook-d-14-nbd-wdh9-8-512gb-mystic-silver",
+        "productType": "DIG",
+        "usedProductType": null,
+        "materialCisNumber": "30062329",
+        "materialSource": "ERP",
+        "modelName": "MateBook D 14 NbD-WDH9 8/512GB Mystic Silver",
+        "rating": {
+            "star": 5,
+            "count": 1,
+            "percent": 101
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "image": "Pdb/small_pic/480/30062329b.jpg",
+        "brandId": "1801",
+        "brandName": "HUAWEI",
+        "status": {
+            "showCase": true,
+            "availableOnlyInRetailStore": false,
+            "soldOut": false,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "987",
+            "name": "Ноутбуки"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/30062329.jpg",
+            "Pdb/30062329b.jpg",
+            "Pdb/30062329b1.jpg",
+            "Pdb/30062329b2.jpg",
+            "Pdb/30062329b21.jpg",
+            "Pdb/30062329b22.jpg",
+            "Pdb/30062329b23.jpg",
+            "Pdb/30062329b24.jpg",
+            "Pdb/30062329b25.jpg",
+            "Pdb/30062329b3.jpg",
+            "Pdb/30062329s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 621,
+                "name": "Диагональ/разрешение",
+                "value": "14\"/1920x1080 пикс.",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            },
+            {
+                "id": 30852930,
+                "name": "Процессор",
+                "value": "Intel Core i5 1135G7 2.4 ГГц",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 2,
+                "measure": null
+            },
+            {
+                "id": 30852805,
+                "name": "Оперативная память (RAM)",
+                "value": "8",
+                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                "valueDescription": null,
+                "priority": 4,
+                "measure": "ГБ"
+            },
+            {
+                "id": 620,
+                "name": "Графический контроллер",
+                "value": "Intel Iris Xe Graphics",
+                "nameDescription": "Модуль компьютера, отвечающий за обработку графической составляющей данных.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": null
+            },
+            {
+                "id": 30850950,
+                "name": "Объем SSD",
+                "value": "512 ГБ",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 7,
+                "measure": null
+            }
+        ],
+        "item_basePrice": 59999,
+        "item_salePrice": 46999,
+        "item_bonus": 1410
+    },
+    {
         "productId": "30061244",
         "name": "Ноутбук ASUS R522MA-BQ862W",
         "nameTranslit": "noutbuk-asus-r522ma-bq862w",
@@ -2234,106 +2332,5 @@
         "item_basePrice": 44999,
         "item_salePrice": 29999,
         "item_bonus": 900
-    },
-    {
-        "productId": "30058603",
-        "name": "Ноутбук Digma EVE 15 C423 Cel N3350 (ES5069EW)",
-        "nameTranslit": "noutbuk-digma-eve-15-c423-cel-n3350-es5069ew",
-        "productType": "DIG",
-        "usedProductType": null,
-        "materialCisNumber": "30058603",
-        "materialSource": "ERP",
-        "modelName": "EVE 15 C423 Cel N3350 (ES5069EW)",
-        "rating": {
-            "star": 4.8,
-            "count": 20,
-            "percent": 91
-        },
-        "supplier": null,
-        "vendorCatalog": null,
-        "sublicense": false,
-        "partnerType": null,
-        "preorder": null,
-        "isMprimeSubscription": false,
-        "image": "Pdb/small_pic/480/30058603b.jpg",
-        "brandId": "1013",
-        "brandName": "Digma",
-        "status": {
-            "showCase": false,
-            "availableOnlyInRetailStore": false,
-            "soldOut": false,
-            "isCannotBeExchanged": false
-        },
-        "category": {
-            "id": "987",
-            "name": "Ноутбуки"
-        },
-        "properties": null,
-        "images": [
-            "Pdb/30058603.jpg",
-            "Pdb/30058603b.jpg",
-            "Pdb/30058603b1.jpg",
-            "Pdb/30058603b2.jpg",
-            "Pdb/30058603b21.jpg",
-            "Pdb/30058603b22.jpg",
-            "Pdb/30058603b23.jpg",
-            "Pdb/30058603b24.jpg",
-            "Pdb/30058603b25.jpg",
-            "Pdb/30058603b3.jpg",
-            "Pdb/30058603b4.jpg",
-            "Pdb/30058603b5.jpg",
-            "Pdb/30058603b6.jpg",
-            "Pdb/30058603s.jpg"
-        ],
-        "propertiesPortion": [
-            {
-                "id": 621,
-                "name": "Диагональ/разрешение",
-                "value": "15.5\"/1920x1080 пикс.",
-                "nameDescription": null,
-                "valueDescription": null,
-                "priority": 1,
-                "measure": null
-            },
-            {
-                "id": 30852930,
-                "name": "Процессор",
-                "value": "Intel Celeron N3350 1.1 ГГц",
-                "nameDescription": null,
-                "valueDescription": null,
-                "priority": 2,
-                "measure": null
-            },
-            {
-                "id": 30852805,
-                "name": "Оперативная память (RAM)",
-                "value": "4",
-                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
-                "valueDescription": null,
-                "priority": 4,
-                "measure": "ГБ"
-            },
-            {
-                "id": 620,
-                "name": "Графический контроллер",
-                "value": "Intel HD Graphics 500",
-                "nameDescription": "Модуль компьютера, отвечающий за обработку графической составляющей данных.",
-                "valueDescription": null,
-                "priority": 5,
-                "measure": null
-            },
-            {
-                "id": 30850653,
-                "name": "Объем eMMC",
-                "value": "128",
-                "nameDescription": "Максимальная вместимость интегрированной памяти (распаяна на плате). Влияет на количество хранимой информации и устанавливаемых программ.",
-                "valueDescription": null,
-                "priority": 11,
-                "measure": "ГБ"
-            }
-        ],
-        "item_basePrice": 25999,
-        "item_salePrice": 17999,
-        "item_bonus": 540
     }
 ]
