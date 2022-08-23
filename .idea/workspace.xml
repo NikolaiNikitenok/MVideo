@@ -4,7 +4,19 @@
     <bookmark url="file://$PROJECT_DIR$/main.py" line="234" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99f45ec9-32da-4048-848b-12630aab3819" name="Default Changelist" comment="" />
+    <list default="true" id="99f45ec9-32da-4048-848b-12630aab3819" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/1_products_ids.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/2_products_description.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/3_products_prices.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/4_result.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_products_ids.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_items.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_prices.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_items_prices.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_result.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +28,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,6 +50,9 @@
     <option name="height" value="860" />
   </component>
   <component name="ProjectId" id="2DcgaFS1tDFkFe7GxLM5YO2AYu1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -58,13 +76,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Documents/GitHub/MVideo&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Project.color": "201d12",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/user/Documents/GitHub/MVideo",
+    "settings.editor.selected.configurable": "discord-application"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.main_pagination">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MVideo" />
@@ -186,8 +206,10 @@
     </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="update 1.1" />
     <option name="LAST_COMMIT_MESSAGE" value="update 1.1" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../../../../../Program Files/Python38-32/Lib/encodings/cp1251.py">
